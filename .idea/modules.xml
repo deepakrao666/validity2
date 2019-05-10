@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/pro/pro.iml" filepath="$PROJECT_DIR$/pro/pro.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/validity2.iml" filepath="$PROJECT_DIR$/.idea/validity2.iml" />
     </modules>
   </component>
